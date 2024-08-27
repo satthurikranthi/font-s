@@ -1,0 +1,43 @@
+#one{
+    font-size: 32px;
+}
+
+
+#two{
+    font-size: 2rem;
+}
+
+
+#heading1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+#heading2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#heading3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+#heading4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+#heading5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#heading6{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#heading7{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
